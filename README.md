@@ -15,13 +15,14 @@ I believe in the power of data to tell compelling stories and make informed deci
 One of my goals is to share my knowledge and skills with others. I aspire to teach coding and data-related topics to someone someday, helping them embark on their journey in this exciting field.
 
 ### Personal Interests
-Sci-Fi Enthusiast: I'm a proud fan of both "Star Trek" and "Star Wars." Exploring the vast and imaginative universes of these franchises has been a source of inspiration and creativity for me.
+Eclectic Sci-Fi and Historical Enthusiast: Exploring the vast and imaginative universes is a source of inspiration and creativity for me.
 
 ### Educational Background: 
 My academic background is in finance Finance, BA|Maseno University (2012 - 2015), which has provided me with a strong analytical foundation that complements my programming skills.
 ### Licenses & certifications: 
 Google Data Analytics
-Career: Currently, I work in the sports betting and casino industry as a Bookmaker and a Fraud and Risk Analyst. 
+### Career: 
+Currently, I work in the sports betting and casino industry as a Bookmaker and a Fraud and Risk Analyst. 
 My professional experiences have further deepened my appreciation for data analysis and problem-solving.
 
 I'm thrilled to be part of the coding and programming community, and I look forward to collaborating, learning, and sharing insights with fellow enthusiasts. 
