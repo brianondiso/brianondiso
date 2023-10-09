@@ -1,4 +1,5 @@
-# Hi there, I'm Brian Ondiso  👋 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=032864A4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Brian+Ondiso+%F0%9F%91%8B+;Bookmaker+%40+Shabiki.com;Tech+Enthusiast.)](https://git.io/typing-svg)
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
