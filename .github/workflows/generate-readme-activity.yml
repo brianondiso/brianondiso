@@ -1,0 +1,27 @@
+name: Generate README Activity
+
+on:
+  push:
+    branches:
+      - main  # Adjust to your default branch name
+
+jobs:
+  generate-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install github-readme-activity
+
+      - name: Generate Activity Section
+        run: npx github-readme-activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
