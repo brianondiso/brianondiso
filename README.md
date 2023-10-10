@@ -76,9 +76,11 @@
   
   <img align="left" alt= "Your GitHub Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=brianondiso&hide_progress=false&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
 
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianondiso&show_icons=true&theme=transparent)
+
   </details>
 
-  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianondiso&show_icons=true&theme=transparent)
+ 
 
 <!--START_SECTION:activity-->
 
