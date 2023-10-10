@@ -3,6 +3,8 @@
 <img align="right" alt="coding" width="400" src="https://github.com/brianondiso/brianondiso/blob/main/assets/gif_avator.gif">
 
 ---
+
+
 ## Fraud and Risk Analyst, Data Analyst and Developer!!
 
 - 🔭 Check out my VS Code journey: [Become A VS Code SuperHero!][course]!
@@ -78,8 +80,11 @@
 3. ❗ Opened issue [#3](https://github.com/brianondiso/brianondiso/issues/3) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
 <!--END_SECTION:activity-->
 
+
 </details>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 <details>
