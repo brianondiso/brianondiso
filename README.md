@@ -80,6 +80,9 @@
 
   </details>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 [twitter]: https://twitter.com/2_18_9_1_14
 [instagram]: https://instagram.com/2.18.9.1.14
