@@ -33,7 +33,7 @@
 
 ---
 <details>
-<summary> zap: ### 📺 Latest Projects </summary>
+<summary> :zap: ### 📺 Latest Projects </summary>
 
 <!-- PROJECTS:START -->
 - [Google Data Analystics: Capstone Project!](https://github.com/brianondiso/bellabeat_capstone_project)
@@ -49,7 +49,7 @@
 ---
 
 <details>
-<summary> ### 📕 Latest Blog Posts </summary>
+<summary> :zap: ### 📕 Latest Blog Posts </summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Render ATL 2023 Trip Report]()
@@ -65,7 +65,7 @@
 ---
 
 <details>
-  <summary>: Most Recent GitHub Activity </summary>
+  <summary>:zap: Most Recent GitHub Activity </summary>
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1](https://github.com/brianondiso/brianondiso/issues/1) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
