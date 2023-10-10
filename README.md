@@ -32,7 +32,8 @@
 </div>
 
 ---
-### 📺 Latest Projects
+<details>
+<summary> zap: ### 📺 Latest Projects </summary>
 
 <!-- PROJECTS:START -->
 - [Google Data Analystics: Capstone Project!](https://github.com/brianondiso/bellabeat_capstone_project)
@@ -43,9 +44,12 @@
 
 ➡️ [Favourite Youtube video.....](https://youtube.com/codestackr)
 
+</details>
+
 ---
 
-### 📕 Latest Blog Posts
+<details>
+<summary> zap: ### 📕 Latest Blog Posts </summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Render ATL 2023 Trip Report]()
@@ -57,18 +61,17 @@
 
 ➡️ [more blog posts...](https://)
 
+</details>
 ---
 
 <details>
   <summary>:zap: Most Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1](https://github.com/brianondiso/brianondiso/issues/1) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
 2. 🗣 Commented on [#2](https://github.com/brianondiso/brianondiso/issues/2#issuecomment-123456789) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
 3. ❗ Opened issue [#3](https://github.com/brianondiso/brianondiso/issues/3) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
 <!--END_SECTION:activity-->
-
-
 
 </details>
 
@@ -82,11 +85,6 @@
   </details>
 
  
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 
 [twitter]: https://twitter.com/2_18_9_1_14
 [instagram]: https://instagram.com/2.18.9.1.14
