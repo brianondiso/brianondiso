@@ -5,9 +5,9 @@
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about software developement
+- 🥅 2024 Goals: Learn more about software development
 - ⚡ Fun fact: I love painting and I'm a livestock farmer.
-- 😻 Check out the First project I created: [Google Data Analytics Capstone Project](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 😻 Check out the First project I created: [Google Data Analytics Capstone Project](https://github.com/brianondiso/bellabeat_capstone_projectW)
 
 ### Connect with me:
 
