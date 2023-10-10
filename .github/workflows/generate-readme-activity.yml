@@ -24,3 +24,6 @@ jobs:
 
       - name: Generate GitHub Stats
         run: npx github-readme-stats --fetch-stats=brianondiso
+
+      - name: Check Node.js Version
+        run: node -v
