@@ -2,7 +2,7 @@
 ---
 ## Fraud and Risk Analyst, Data Analyst and Developer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Check out my VS Code journey: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn more about software development
@@ -35,14 +35,13 @@
 ### 📺 Latest Projects
 
 <!-- PROJECTS:START -->
-- [How to Use shadcn/ui: Installing a Button Made Simple! #shadcn #ui](https://www.youtube.com/watch?v=VeAT5tPc1iQ)
+- [Google Data Analystics: Capstone Project!](https://github.com/brianondiso/bellabeat_capstone_project)
 - [Next.js Setup with shadcn/ui: Quick Tutorial for Seamless Integration! #shadcn #ui](https://www.youtube.com/watch?v=GNi2fE10LcU)
 - [Remix Setup with shadcn/ui: Easy Guide to Enhance Your Project! #shadcn #ui](https://www.youtube.com/watch?v=UmmaFU7qohk)
-- [Get Started with shadcn/ui in Gatsby: A Beginner&#39;s Tutorial!](https://www.youtube.com/watch?v=1iSYpeI4mVc)
-- [Vite Setup with shadcn/ui: Step-by-Step Guide to Easy Integration! #shadcn #ui](https://www.youtube.com/watch?v=PKbDGN2nxFc)
+- [Get Started with  Excel: A Beginner&#39;s Tutorial!]()
 <!-- PROJECT:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [Favourite Youtube video.....](https://youtube.com/codestackr)
 
 ---
 
