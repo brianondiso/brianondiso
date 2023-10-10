@@ -32,7 +32,7 @@
 </div>
 
 ---
-### 📺 Latest YouTube Videos
+### 📺 Latest Projects
 
 <!-- PROJECTS:START -->
 - [How to Use shadcn/ui: Installing a Button Made Simple! #shadcn #ui](https://www.youtube.com/watch?v=VeAT5tPc1iQ)
@@ -40,7 +40,7 @@
 - [Remix Setup with shadcn/ui: Easy Guide to Enhance Your Project! #shadcn #ui](https://www.youtube.com/watch?v=UmmaFU7qohk)
 - [Get Started with shadcn/ui in Gatsby: A Beginner&#39;s Tutorial!](https://www.youtube.com/watch?v=1iSYpeI4mVc)
 - [Vite Setup with shadcn/ui: Step-by-Step Guide to Easy Integration! #shadcn #ui](https://www.youtube.com/watch?v=PKbDGN2nxFc)
-<!-- YOUTUBE:END -->
+<!-- PROJECT:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
@@ -56,7 +56,7 @@
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://)
 
 ---
 
