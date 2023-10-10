@@ -1,4 +1,4 @@
-name: Generate README Activity
+name: Generate GitHub Activity Stats
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main  # Adjust to your default branch name
 
 jobs:
-  generate-activity:
+  generate-activity-stats:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,9 +19,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install github-readme-activity
+        run: npm install github-readme-stats
 
-      - name: Generate Activity Section
-        run: npx github-readme-activity
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate GitHub Stats
+        run: npx github-readme-stats --fetch-stats=brianondiso
