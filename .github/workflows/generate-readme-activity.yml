@@ -13,17 +13,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
+      - name: Use Node.js 16.x
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # Update to Node.js version 16
-    
+          node-version: '16'
 
       - name: Install dependencies
-        run: npm install github-readme-stats
+        run: npm install
 
       - name: Generate GitHub Stats
-        run: npx github-readme-stats --fetch-stats=brianondiso
-
-      - name: Check Node.js Version
-        run: node -v
+        run: |
+          npx githubocto/flat@v17 --token ${{ secrets.shoto }} --format=markdown --readme=./README.md --section=activity
