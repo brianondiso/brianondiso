@@ -16,6 +16,7 @@
 [![website](https://github.com/brianondiso/brianondiso/blob/main/assets/instagram.svg)](instagram.com/2.18.9.1.14)
 &nbsp;&nbsp;
 [![website](https://github.com/brianondiso/brianondiso/blob/main/assets/x.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+
 ---
 ### Languages and Tools:
 
@@ -33,7 +34,7 @@
 
 ---
 <details>
-<summary> :zap: ### 📺 Latest Projects </summary>
+<summary> :zap: 📺 Latest Projects </summary>
 
 <!-- PROJECTS:START -->
 - [Google Data Analystics: Capstone Project!](https://github.com/brianondiso/bellabeat_capstone_project)
@@ -49,7 +50,7 @@
 ---
 
 <details>
-<summary> :zap: ### 📕 Latest Blog Posts </summary>
+<summary> :zap: 📕 Latest Blog Posts </summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Render ATL 2023 Trip Report]()
@@ -62,6 +63,7 @@
 ➡️ [more blog posts...](https://)
 
 </details>
+
 ---
 
 <details>
@@ -75,6 +77,8 @@
 
 </details>
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
@@ -84,7 +88,7 @@
 
   </details>
 
- 
+ ---
 
 [twitter]: https://twitter.com/2_18_9_1_14
 [instagram]: https://instagram.com/2.18.9.1.14
