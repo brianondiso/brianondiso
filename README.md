@@ -60,15 +60,14 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Most Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. 🗣 Commented on [#1235](https://github.com/shadcn-ui/ui/issues/1235#issuecomment-1679215686) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. 🗣 Commented on [#35](https://github.com/GH-Event-Demos/random-name-picker/issues/35#issuecomment-1572138731) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+1. 🔒 Closed issue [#1](https://github.com/brianondiso/brianondiso/issues/1) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
+2. 🗣 Commented on [#2](https://github.com/brianondiso/brianondiso/issues/2#issuecomment-123456789) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
+3. ❗ Opened issue [#3](https://github.com/brianondiso/brianondiso/issues/3) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
 <!--END_SECTION:activity-->
+
 
 </details>
 
