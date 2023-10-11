@@ -41,7 +41,7 @@
 ---
 
 <details>
-  <summary style="color: orange; font-weight: bold;">:zap: 📺 Latest Projects</summary>
+  <summary style= "color: orange; font-weight: bold;">:zap: 📺 Latest Projects</summary>
 <!-- PROJECTS:START -->
 - [Google Data Analystics: Capstone Project!](https://github.com/brianondiso/bellabeat_capstone_project)
 - [Next.js Setup with shadcn/ui: Quick Tutorial for Seamless Integration! #shadcn #ui](https://www.youtube.com/watch?v=GNi2fE10LcU)
@@ -76,7 +76,14 @@
 <details>
   <summary>:zap: Most Recent GitHub Activity </summary>
 
-![Brian Ondiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianondiso&hide=contribs,prs)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianondiso&theme=solarized)
+
+![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/metrics?username=brianondiso&theme=solarized)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brianondiso&theme=solarized)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianondiso&theme=solarized)
+
 
 
 </details>
