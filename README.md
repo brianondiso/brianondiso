@@ -16,11 +16,10 @@
 ---
 ### Connect with me:
 
-[![website](https://github.com/brianondiso/brianondiso/blob/main/assets/linkedin.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](https://github.com/brianondiso/brianondiso/blob/main/assets/linkedin.svg)](https://www.linkedin.com/in/brianondiso/)
 &nbsp;&nbsp;
-[![website](https://github.com/brianondiso/brianondiso/blob/main/assets/instagram.svg)](instagram.com/2.18.9.1.14)
+[![website](https://github.com/brianondiso/brianondiso/blob/main/assets/x.svg)](https://twitter.com/2_18_9_1_14)
 &nbsp;&nbsp;
-[![website](https://github.com/brianondiso/brianondiso/blob/main/assets/x.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 
 ---
 ### Languages and Tools:
