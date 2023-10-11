@@ -78,9 +78,11 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianondiso&theme=solarized)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brianondiso&theme=solarized)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brianondiso&theme=solarized" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianondiso&theme=solarized" alt="Languages" />
+</div>
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianondiso&theme=solarized)
 
 
 
