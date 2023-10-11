@@ -75,10 +75,8 @@
 
 <details>
   <summary>:zap: Most Recent GitHub Activity </summary>
-  
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianondiso&theme=solarized)
 
-![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/metrics?username=brianondiso&theme=solarized)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianondiso&theme=solarized)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brianondiso&theme=solarized)
 
