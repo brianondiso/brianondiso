@@ -61,7 +61,7 @@
 <!-- EDUCATION-AND-CERTIFICATION:START -->
 - [Google Data Analytics Professional Certificate, ]()
 - [Excel Skills for Business Specialization&amp; Macquarie University](link)
-- [Degree in Business Admin with IT Finance Option](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/degree.png)
+- [[Degree in Business Admin with IT Finance Option](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/degree.png)]
 - [Meta Database Engineer Professional Certificate; META]()
 
 <!-- EDUCATION-AND-CERTIFICATION:END -->
