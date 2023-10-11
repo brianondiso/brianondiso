@@ -40,12 +40,14 @@
 ---
 
 <details>
-  <summary style= "color: orange; font-weight: bold;">:zap: 📺 Latest Projects</summary>
+  <summary>:zap: 📺 Latest Projects</summary>
 <!-- PROJECTS:START -->
+
 - [Google Data Analystics: Capstone Project!](https://github.com/brianondiso/bellabeat_capstone_project)
 - [Next.js Setup with shadcn/ui: Quick Tutorial for Seamless Integration! #shadcn #ui](https://www.youtube.com/watch?v=GNi2fE10LcU)
 - [Remix Setup with shadcn/ui: Easy Guide to Enhance Your Project! #shadcn #ui](https://www.youtube.com/watch?v=UmmaFU7qohk)
 - [Get Started with  Excel: A Beginner&#39;s Tutorial!]()
+
 <!-- PROJECT:END -->
 
 ➡️ [Favourite Youtube video.....](https://youtube.com/codestackr)
