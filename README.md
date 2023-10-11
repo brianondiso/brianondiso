@@ -59,9 +59,10 @@
 <summary> :zap: 📕 Education and Certifications </summary>
 
 <!-- EDUCATION-AND-CERTIFICATION:START -->
+
 - [Google Data Analytics Professional Certificate, ]()
 - [Excel Skills for Business Specialization&amp; Macquarie University](link)
-- [[Degree in Business Admin with IT Finance Option](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/degree.png)]
+- [Degree in Business Admin with IT Finance Option](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/degree.png)
 - [Meta Database Engineer Professional Certificate; META]()
 
 <!-- EDUCATION-AND-CERTIFICATION:END -->
@@ -75,11 +76,7 @@
 <details>
   <summary>:zap: Most Recent GitHub Activity </summary>
 
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/brianondiso/brianondiso/issues/1) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
-2. 🗣 Commented on [#2](https://github.com/brianondiso/brianondiso/issues/2#issuecomment-123456789) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
-3. ❗ Opened issue [#3](https://github.com/brianondiso/brianondiso/issues/3) in [brianondiso/brianondiso](https://github.com/brianondiso/brianondiso)
-<!--END_SECTION:activity-->
+![Brian Ondiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianondiso&hide=contribs,prs)
 
 
 </details>
@@ -93,12 +90,12 @@
   
   <img align="left" alt= "Your GitHub Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=brianondiso&hide_progress=false&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianondiso&show_icons=true&theme=transparent)
+![Brian Ondiso GitHub stats](https://github-readme-stats.vercel.app/api?username=brianondiso&show_icons=true&theme=transparent)
 
   </details>
 
  ---
 
-[twitter]: https://twitter.com/2_18_9_1_14
-[instagram]: https://instagram.com/2.18.9.1.14
-[linkedin]: https://https://www.linkedin.com/in/brianondiso/
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianondiso&layout=compact)
+
+---
