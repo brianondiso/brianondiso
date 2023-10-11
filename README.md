@@ -67,7 +67,7 @@
   #### Degree in Business Admin with IT Finance Option
   - [View Certificate](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/degree.png)
  
- - ➡️ ![See more on LinkedIn](https://www.linkedin.com/in/brianondiso/details/skills/)
+  ➡️ [See more on LinkedIn](https://www.linkedin.com/in/brianondiso/details/skills/)
 </details>
 
 ---
