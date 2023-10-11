@@ -56,20 +56,18 @@
 ---
 
 <details>
-<summary><strong> :zap: 🎓📕 Academic Credentials </strong></summary>
+<summary> :zap: 🎓📕 Academic Credentials </summary>
 
-  <br>
-  
-  ### Google Data Analytics Professional Certificate
+ #### Meta Database Engineer Professional Certificate (META)
   - [View Certificate](link)
-  ### Excel Skills for Business Specialization (Macquarie University)
+  #### Google Data Analytics Professional Certificate
   - [View Certificate](link)
-  ### Degree in Business Admin with IT Finance Option
+  #### Excel Skills for Business Specialization (Macquarie University)
+  - [View Certificate](link)
+  #### Degree in Business Admin with IT Finance Option
   - [View Certificate](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/degree.png)
-  ### Meta Database Engineer Professional Certificate (META)
-  - [View Certificate](link)
-  <br>
-  ➡️ [See more on LinkedIn](https://www.linkedin.com/in/brianondiso/details/skills/)
+ 
+ - ➡️ ![See more on LinkedIn](https://www.linkedin.com/in/brianondiso/details/skills/)
 </details>
 
 ---
