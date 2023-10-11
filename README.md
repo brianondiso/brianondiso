@@ -32,7 +32,7 @@
   [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
   [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />]
   [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-  [<img align="left" alt="Microsoft Excel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" style="padding-right:10px;" />]
+  [<img align="left" alt="Microsoft Excel" width="26px" src="https://github.com/brianondiso/brianondiso/blob/main/new-microsoft-office-icons/no%20shadow/X.png" style="padding-right:10px;" />]
   [<img align="left" alt="Google Cloud Platform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />]
 </div>
 
