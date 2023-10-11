@@ -5,7 +5,7 @@
 ---
 
 
-## Fraud and Risk Analyst, Data Analyst and Developer!!
+## Junior Data Analyst and Developer!
 
 - 🔭 Check out my VS Code journey: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Data Science
