@@ -7,9 +7,9 @@
 
 ## Junior Data Analyst and Developer!
 
-- 🔭 Check out my VS Code journey: [Become A VS Code SuperHero!][course]!
+- 🔭 Check out my VS Code journey.
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other programming enthusiasts
 - 🥅 2024 Goals: Learn more about software development
 - ⚡ Fun fact: I love painting and I'm a livestock farmer.
 - 😻 Check out the First project I created: [Google Data Analytics Capstone Project](https://github.com/brianondiso/bellabeat_capstone_project)
@@ -39,9 +39,9 @@
 
 
 ---
-<details>
-<summary> :zap: 📺 Latest Projects </summary>
 
+<details>
+  <summary style="color: orange; font-weight: bold;">:zap: 📺 Latest Projects</summary>
 <!-- PROJECTS:START -->
 - [Google Data Analystics: Capstone Project!](https://github.com/brianondiso/bellabeat_capstone_project)
 - [Next.js Setup with shadcn/ui: Quick Tutorial for Seamless Integration! #shadcn #ui](https://www.youtube.com/watch?v=GNi2fE10LcU)
