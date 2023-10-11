@@ -56,17 +56,17 @@
 ---
 
 <details>
-<summary> :zap: 📕 Latest Blog Posts </summary>
+<summary> :zap: 📕 Education and Certifications </summary>
 
-<!-- BLOG-POST-LIST:START -->
-- [Render ATL 2023 Trip Report]()
-- [My Web Development Roadmap 2023]()
-- [Getting Started with MYSQL &amp; NoSQL](link)
-- [How To Section]()
+<!-- EDUCATION-AND-CERTIFICATION:START -->
+- [Google Data Analytics Professional Certificate, ]()
+- [Excel Skills for Business Specialization&amp; Macquarie University](link)
+- ![Degree in Business Admin with IT Finance Option](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/degree.png)
+- [Meta Database Engineer Professional Certificate; META]()
 
-<!-- BLOG-POST-LIST:END -->
+<!-- EDUCATION-AND-CERTIFICATION:END -->
 
-➡️ [more blog posts...](https://)
+➡️ [more skills on Linked in....](https://www.linkedin.com/in/brianondiso/details/skills/)
 
 </details>
 
