@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=261464A4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Brian+Ondiso+%F0%9F%91%8B+)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://github.com/brianondiso/brianondiso/blob/main/assets/gif_avator.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/brianondiso/brianondiso/blob/main/assets/gif_avator.gif">(https://github.com/brianondiso)
 
 ---
 
@@ -9,13 +9,12 @@
 
 - 🔭 Check out my VS Code journey.
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate with other programming enthusiasts
+- 👯 I’m looking to collaborate with other programmers
 - 🥅 2024 Goals: Learn more about software development
 - ⚡ Fun fact: I love painting and I'm a livestock farmer.
 - 😻 Check out the First project I created: [Google Data Analytics Capstone Project](https://github.com/brianondiso/bellabeat_capstone_project)
 ---
 ### Connect with me:
-
 [![website](https://github.com/brianondiso/brianondiso/blob/main/assets/linkedin.svg)](https://www.linkedin.com/in/brianondiso/)
 &nbsp;&nbsp;
 [![website](https://github.com/brianondiso/brianondiso/blob/main/assets/x.svg)](https://twitter.com/2_18_9_1_14)
