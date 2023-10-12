@@ -12,6 +12,7 @@
 - 🥅 2024 Goals: Learn more about software development
 - ⚡ Fun fact: I love painting and I'm a livestock farmer.
 - 😻 Check out the First project I created: [Google Data Analytics Capstone Project](https://github.com/brianondiso/bellabeat_capstone_project)
+
 ---
 
 ### Connect with me:
@@ -29,8 +30,6 @@
 
 [![Gda-badge](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/google-data-analytics-certificate.2.png)](https://www.credly.com/badges/9c120b11-89f5-4fbf-a764-a01ef24d7ce6/public_url)
 &nbsp;&nbsp;
-
-
 
 
 ---
@@ -99,6 +98,7 @@
 
 
 </details>
+
 ---
 
 <details>
