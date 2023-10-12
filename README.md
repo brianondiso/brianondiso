@@ -25,7 +25,7 @@
 
 ** Earned Badges
 
-<img align="right" alt="coding" width="150" height="270" src="https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/google-data-analytics-certificate.2.png">
+<img align="right" alt="coding" width="100" height="220" src="https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/google-data-analytics-certificate.2.png">
 
 ---
 
