@@ -25,6 +25,8 @@
 
 ### Earned Badges
 
+<img align="right" alt="coding" width="150" height="270" src="https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/google-data-analytics.png">
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c120b11-89f5-4fbf-a764-a01ef24d7ce6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
