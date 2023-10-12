@@ -23,7 +23,9 @@
 
 ---
 
-<b> Earned Badges </b>
+### <b> Earned Badges: </b>
+- [🎓 Google Data Analytics :](https://www.credly.com/badges/9c120b11-89f5-4fbf-a764-a01ef24d7ce6/public_url)
+
 
 [![Gda-badge](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/google-data-analytics-certificate.2.png)](https://www.credly.com/badges/9c120b11-89f5-4fbf-a764-a01ef24d7ce6/public_url)
 &nbsp;&nbsp;
@@ -33,7 +35,7 @@
 
 ---
 
-<b> Languages and Tools: </b>
+### <b> Languages and Tools: </b>
 
 <div align="center">
   [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -69,7 +71,7 @@
 ---
 
 <details>
-<summary> :zap: 🎓📕 Academic Credentials </summary>
+<summary> :zap: 📕 Academic Credentials </summary>
 
  #### Meta Database Engineer Professional Certificate (META)
   - [View Certificate](link)
