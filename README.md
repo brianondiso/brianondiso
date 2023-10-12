@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I love painting and I'm a livestock farmer.
 - 😻 Check out the First project I created: [Google Data Analytics Capstone Project](https://github.com/brianondiso/bellabeat_capstone_project)
 ---
+
 ### Connect with me:
 
 [![website](https://github.com/brianondiso/brianondiso/blob/main/assets/linkedin.svg)](https://www.linkedin.com/in/brianondiso/)
@@ -21,6 +22,13 @@
 &nbsp;&nbsp;
 
 ---
+
+### Earned Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c120b11-89f5-4fbf-a764-a01ef24d7ce6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+
 ### Languages and Tools:
 
 <div align="center">
