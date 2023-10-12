@@ -23,13 +23,13 @@
 
 ---
 
-### Earned Badges
+** Earned Badges
 
 <img align="right" alt="coding" width="150" height="270" src="https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/google-data-analytics-certificate.2.png">
 
 ---
 
-### Languages and Tools:
+_ Languages and Tools:__
 
 <div align="center">
   [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
