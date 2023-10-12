@@ -24,7 +24,7 @@
 ---
 
 ### <b> Earned Badges: </b>
-1 * [🎓 Google Data Analytics :](https://www.credly.com/badges/9c120b11-89f5-4fbf-a764-a01ef24d7ce6/public_url)
+1 [🎓 Google Data Analytics :](https://www.credly.com/badges/9c120b11-89f5-4fbf-a764-a01ef24d7ce6/public_url)
 
 
 [![Gda-badge](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/google-data-analytics-certificate.2.png)](https://www.credly.com/badges/9c120b11-89f5-4fbf-a764-a01ef24d7ce6/public_url)
