@@ -4,7 +4,7 @@
 
 ---
 
-## Junior Data Analyst and Developer!
+## Sportsbook Trader, Junior Data Analyst and Developer!
 
 - 🔭 Check out my VS Code journey.
 - 🌱 I’m currently learning Data Science
