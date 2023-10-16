@@ -5,8 +5,8 @@
 ---
 
 ## Sportsbook Trader, Junior Data Analyst and Developer!
-
-- 🔭 Check out my VS Code journey.
+## Topics
+- 🔭 ![Merging files and columns using power query](On Merging files youtube : https://www.youtube.com/watch?v=73T7isNVH_w&t=439s) 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2024 Goals: Learn more about software development
