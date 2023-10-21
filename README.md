@@ -10,8 +10,7 @@
 - 🔭 I am open to collaborate on Retail Analytics and Python projects.
 - 🌱 I’m currently learning ML and AI
 - 🥅 2024 Goals: Learn more about software development
-- ⚡ Fun fact: I love painting and I'm a livestock farmer.
-- 👯 Check out the First project I created: [Google Data Analytics Capstone Project](https://github.com/brianondiso/bellabeat_capstone_project)
+- ⚡ Fun fact: I love painting farming.
 
 ---
 
