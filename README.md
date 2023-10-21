@@ -1,4 +1,4 @@
-# Hello 👋, I am Brian Ondiso
+## Hello 👋, I am Brian Ondiso
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&random=false&width=435&lines=Sportsbook+Trader;Data+Analyst;Developer)](https://git.io/typing-svg)
