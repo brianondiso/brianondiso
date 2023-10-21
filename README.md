@@ -23,6 +23,9 @@
 
 ---
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
 ### <b> Earned Badges: </b>
 * [🎓 Google Data Analytics :](https://www.credly.com/badges/9c120b11-89f5-4fbf-a764-a01ef24d7ce6/public_url)
 
