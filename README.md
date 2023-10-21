@@ -1,5 +1,6 @@
 # Hello 👋, I am Brian Ondiso
 
+---
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://github.com/brianondiso/brianondiso/blob/main/assets/gif_avator.gif">
@@ -8,12 +9,11 @@
 
 ## Sportsbook Trader, Junior Data Analyst and Developer!
 ## Topics
-- 🔭 ![[Merging files and columns using power query](On Merging files youtube : https://www.youtube.com/watch?v=73T7isNVH_w&t=439s)]
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate with other programmers
+- 🔭 I am open to collaborate on Retail Analytics and Python projects.
+- 🌱 I’m currently learning ML and AI
 - 🥅 2024 Goals: Learn more about software development
 - ⚡ Fun fact: I love painting and I'm a livestock farmer.
-- 😻 Check out the First project I created: [Google Data Analytics Capstone Project](https://github.com/brianondiso/bellabeat_capstone_project)
+- 👯 Check out the First project I created: [Google Data Analytics Capstone Project](https://github.com/brianondiso/bellabeat_capstone_project)
 
 ---
 
