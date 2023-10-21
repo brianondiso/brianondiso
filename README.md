@@ -5,6 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/brianondiso/brianondiso/blob/main/assets/gif_avator.gif">
 ---
+
 ## Topics
 - 🔭 I am open to collaborate on Retail Analytics and Python projects.
 - 🌱 I’m currently learning ML and AI
