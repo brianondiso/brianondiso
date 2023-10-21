@@ -7,10 +7,10 @@
 
 
 ## Topics
-- 🔭 I am open to collaborate on Retail Analytics and Python projects.
+- 🔭 I am open to collaborating on Retail Analytics and Python projects.
 - 🌱 I’m currently learning ML and AI
 - 🥅 2024 Goals: Learn more about software development
-- ⚡ Fun fact: I love painting farming.
+- ⚡ Fun fact: I love painting and farming.
 
 ---
 
@@ -22,8 +22,8 @@
 &nbsp;&nbsp;
 
 ---
+<h3 align="left">Random Joke Generator:</h3>
 
-<!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
 ### <b> Earned Badges: </b>
