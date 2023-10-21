@@ -78,11 +78,8 @@
   - [View Certificate](link)
   #### Google Data Analytics Professional Certificate
   - [View Certificate](https://www.credly.com/badges/9c120b11-89f5-4fbf-a764-a01ef24d7ce6/linked_in_profile)
-  #### Excel Skills for Business Specialization (Macquarie University)
-  - [View Certificate](https://coursera.org/share/0795783a9e207f322feea3876539925a)
   #### Degree in Business Admin with IT Finance Option
   - [View Certificate](https://github.com/brianondiso/brianondiso/blob/main/assets/credentials/degree.png)
- 
   ➡️ [See more on LinkedIn](https://www.linkedin.com/in/brianondiso/details/skills/)
 </details>
 
