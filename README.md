@@ -1,6 +1,6 @@
-## Hello 👋, I am Brian Ondiso
+<h1 align="center">Hello 👋, I'm Brian Ondiso </h1>
 
----
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&random=false&width=435&lines=Sportsbook+Trader;Data+Analyst;Developer)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://github.com/brianondiso/brianondiso/blob/main/assets/gif_avator.gif">
