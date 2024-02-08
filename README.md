@@ -8,8 +8,8 @@
 
 ## Topics
 - 🔭 I am open to collaborating on Retail Analytics and Python projects.
-- 🌱 I’m currently learning ML and AI
-- 🥅 2024 Goals: Learn more about data analytics.
+- 🌱 I’m currently learning Game development.
+- 🥅 2024 Goals: Learn Unity.
 - ⚡ Fun fact: I am a painter.
 
 ---
