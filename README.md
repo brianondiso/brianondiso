@@ -7,9 +7,9 @@
 
 
 ## Topics
-- 🔭 I am open to collaborating on Retail Analytics and Python projects.
-- 🌱 I’m currently learning Game development.
-- 🥅 2024 Goals: Learn Unity.
+- 🔭 I am open to Android Dev projects.
+- 🌱 I’m currently learning Kotlin.
+- 🥅 Goals: Learn Unity.
 - ⚡ Fun fact: I am a painter.
 
 ---
